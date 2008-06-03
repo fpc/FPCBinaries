@@ -1,4 +1,8 @@
 * text=auto !eol
+i386-win32/armel-linux-ar.exe -text
+i386-win32/armel-linux-as.exe -text
+i386-win32/armel-linux-ld.exe -text
+i386-win32/armel-linux-objdump.exe -text
 i386-win32/i386-linux-ar.exe -text
 i386-win32/i386-linux-as.exe -text
 i386-win32/i386-linux-ld.exe -text

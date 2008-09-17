@@ -11,6 +11,10 @@ i386-win32/arm-linux-eabi-ld.exe -text
 i386-win32/arm-linux-eabi-objdump.exe -text
 i386-win32/arm-linux-ld.exe -text
 i386-win32/arm-linux-objdump.exe -text
+i386-win32/arm-nds-ar.exe -text
+i386-win32/arm-nds-as.exe -text
+i386-win32/arm-nds-ld.exe -text
+i386-win32/arm-nds-objdump.exe -text
 i386-win32/i386-linux-ar.exe -text
 i386-win32/i386-linux-as.exe -text
 i386-win32/i386-linux-ld.exe -text

@@ -40,6 +40,9 @@ i386-win32/m68k-linux-ar.exe -text
 i386-win32/m68k-linux-as.exe -text
 i386-win32/m68k-linux-ld.exe -text
 i386-win32/m68k-linux-objdump.exe -text
+i386-win32/powerpc-linux-ar.exe -text
+i386-win32/powerpc-linux-as.exe -text
+i386-win32/powerpc-linux-ld.exe -text
 i386-win32/powerpc-netbsd-ar.exe -text
 i386-win32/powerpc-netbsd-as.exe -text
 i386-win32/powerpc-netbsd-ld.exe -text

@@ -24,6 +24,13 @@ i386-win32/i386-linux-ar.exe -text
 i386-win32/i386-linux-as.exe -text
 i386-win32/i386-linux-ld.exe -text
 i386-win32/i386-linux-objdump.exe -text
+i386-win32/i386-sunos-ar.exe -text
+i386-win32/i386-sunos-as.exe -text
+i386-win32/i386-sunos-ld.exe -text
+i386-win32/i386-symbian-ar.exe -text
+i386-win32/i386-symbian-as.exe -text
+i386-win32/i386-symbian-ld.exe -text
+i386-win32/i386-symbian-postw32.exe -text
 i386-win32/m68k-linux-ar.exe -text
 i386-win32/m68k-linux-as.exe -text
 i386-win32/m68k-linux-ld.exe -text

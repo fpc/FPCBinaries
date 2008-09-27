@@ -55,6 +55,11 @@ i386-win32/sparc-linux-ar.exe -text
 i386-win32/sparc-linux-as.exe -text
 i386-win32/sparc-linux-ld.exe -text
 i386-win32/sparc-linux-objdump.exe -text
+i386-win32/sparc-solaris-ar.exe -text
+i386-win32/sparc-solaris-as.exe -text
+i386-win32/sparc-solaris-gas.exe -text
+i386-win32/sparc-solaris-gld.exe -text
+i386-win32/sparc-solaris-ld.exe -text
 i386-win32/x86_64-freebsd-ar.exe -text
 i386-win32/x86_64-freebsd-as.exe -text
 i386-win32/x86_64-freebsd-ld.exe -text

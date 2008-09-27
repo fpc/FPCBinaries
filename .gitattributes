@@ -31,6 +31,11 @@ i386-win32/i386-symbian-ar.exe -text
 i386-win32/i386-symbian-as.exe -text
 i386-win32/i386-symbian-ld.exe -text
 i386-win32/i386-symbian-postw32.exe -text
+i386-win32/m68k-amig-ld.exe -text
+i386-win32/m68k-amiga-ar.exe -text
+i386-win32/m68k-amiga-as.exe -text
+i386-win32/m68k-amiga-objdump.exe -text
+i386-win32/m68k-amiga-strip.exe -text
 i386-win32/m68k-linux-ar.exe -text
 i386-win32/m68k-linux-as.exe -text
 i386-win32/m68k-linux-ld.exe -text

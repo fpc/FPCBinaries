@@ -68,3 +68,4 @@ i386-win32/x86_64-linux-ar.exe -text
 i386-win32/x86_64-linux-as.exe -text
 i386-win32/x86_64-linux-ld.exe -text
 i386-win32/x86_64-linux-objdump.exe -text
+x86_64-win64/zlib1.dll -text

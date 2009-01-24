@@ -1,4 +1,10 @@
 * text=auto !eol
+i386-win32/arm-embedded-ar.exe -text
+i386-win32/arm-embedded-as.exe -text
+i386-win32/arm-embedded-ld.exe -text
+i386-win32/arm-embedded-objcopy.exe -text
+i386-win32/arm-embedded-objdump.exe -text
+i386-win32/arm-embedded-strip.exe -text
 i386-win32/arm-gba-ar.exe -text
 i386-win32/arm-gba-as.exe -text
 i386-win32/arm-gba-ld.exe -text

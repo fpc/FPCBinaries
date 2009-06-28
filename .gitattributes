@@ -26,6 +26,12 @@ i386-win32/arm-wince-as.exe -text
 i386-win32/arm-wince-ld.exe -text
 i386-win32/arm-wince-objdump.exe -text
 i386-win32/arm-wince-strip.exe -text
+i386-win32/avr-embedded-ar.exe -text
+i386-win32/avr-embedded-as.exe -text
+i386-win32/avr-embedded-ld.exe -text
+i386-win32/avr-embedded-objcopy.exe -text
+i386-win32/avr-embedded-objdump.exe -text
+i386-win32/avr-embedded-strip.exe -text
 i386-win32/i386-haiku-ar.exe -text
 i386-win32/i386-haiku-as.exe -text
 i386-win32/i386-haiku-ld.exe -text

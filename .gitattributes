@@ -47,9 +47,9 @@ i386-win32/i386-symbian-ar.exe -text
 i386-win32/i386-symbian-as.exe -text
 i386-win32/i386-symbian-ld.exe -text
 i386-win32/i386-symbian-postw32.exe -text
-i386-win32/m68k-amig-ld.exe -text
 i386-win32/m68k-amiga-ar.exe -text
 i386-win32/m68k-amiga-as.exe -text
+i386-win32/m68k-amiga-ld.exe -text
 i386-win32/m68k-amiga-objdump.exe -text
 i386-win32/m68k-amiga-strip.exe -text
 i386-win32/m68k-linux-ar.exe -text
@@ -90,5 +90,11 @@ i386-win32/x86_64-linux-ar.exe -text
 i386-win32/x86_64-linux-as.exe -text
 i386-win32/x86_64-linux-ld.exe -text
 i386-win32/x86_64-linux-objdump.exe -text
+i386-win32/x86_64-sunos-ar.exe -text
+i386-win32/x86_64-sunos-as.exe -text
+i386-win32/x86_64-sunos-ld.exe -text
+i386-win32/x86_64-sunos-objcopy.exe -text
+i386-win32/x86_64-sunos-objdump.exe -text
+i386-win32/x86_64-sunos-strip.exe -text
 i386-win32/zlib1.dll -text
 x86_64-win64/zlib1.dll -text

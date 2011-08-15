@@ -1,4 +1,5 @@
 * text=auto !eol
+i386-win32/README.txt svneol=native#text/plain
 i386-win32/arm-embedded-ar.exe -text
 i386-win32/arm-embedded-as.exe -text
 i386-win32/arm-embedded-ld.exe -text
@@ -17,6 +18,7 @@ i386-win32/arm-linux-eabi-ld.exe -text
 i386-win32/arm-linux-eabi-objdump.exe -text
 i386-win32/arm-linux-ld.exe -text
 i386-win32/arm-linux-objdump.exe -text
+i386-win32/arm-linux-strip.exe -text
 i386-win32/arm-nds-ar.exe -text
 i386-win32/arm-nds-as.exe -text
 i386-win32/arm-nds-ld.exe -text
@@ -102,5 +104,4 @@ i386-win32/x86_64-sunos-ld.exe -text
 i386-win32/x86_64-sunos-objcopy.exe -text
 i386-win32/x86_64-sunos-objdump.exe -text
 i386-win32/x86_64-sunos-strip.exe -text
-i386-win32/zlib1.dll -text
 x86_64-win64/zlib1.dll -text

@@ -93,6 +93,9 @@ i386-win32/sparc-solaris-as.exe -text
 i386-win32/sparc-solaris-gas.exe -text
 i386-win32/sparc-solaris-gld.exe -text
 i386-win32/sparc-solaris-ld.exe -text
+i386-win32/sparc-solaris-objcopy.exe -text
+i386-win32/sparc-solaris-objdump.exe -text
+i386-win32/sparc-solaris-strip.exe -text
 i386-win32/x86_64-freebsd-ar.exe -text
 i386-win32/x86_64-freebsd-as.exe -text
 i386-win32/x86_64-freebsd-ld.exe -text

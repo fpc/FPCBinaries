@@ -57,7 +57,9 @@ i386-win32/m68k-amiga-strip.exe -text
 i386-win32/m68k-linux-ar.exe -text
 i386-win32/m68k-linux-as.exe -text
 i386-win32/m68k-linux-ld.exe -text
+i386-win32/m68k-linux-objcopy.exe -text
 i386-win32/m68k-linux-objdump.exe -text
+i386-win32/m68k-linux-strip.exe -text
 i386-win32/mips-linux-ar.exe -text
 i386-win32/mips-linux-as.exe -text
 i386-win32/mips-linux-ld.exe -text

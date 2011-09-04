@@ -82,7 +82,9 @@ i386-win32/powerpc-netbsd-objdump.exe -text
 i386-win32/powerpc64-linux-ar.exe -text
 i386-win32/powerpc64-linux-as.exe -text
 i386-win32/powerpc64-linux-ld.exe -text
+i386-win32/powerpc64-linux-objcopy.exe -text
 i386-win32/powerpc64-linux-objdump.exe -text
+i386-win32/powerpc64-linux-strip.exe -text
 i386-win32/sparc-linux-ar.exe -text
 i386-win32/sparc-linux-as.exe -text
 i386-win32/sparc-linux-ld.exe -text

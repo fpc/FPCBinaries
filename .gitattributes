@@ -42,6 +42,7 @@ i386-win32/i386-linux-ar.exe -text
 i386-win32/i386-linux-as.exe -text
 i386-win32/i386-linux-ld.exe -text
 i386-win32/i386-linux-objdump.exe -text
+i386-win32/i386-opensd-ar.exe -text
 i386-win32/i386-sunos-ar.exe -text
 i386-win32/i386-sunos-as.exe -text
 i386-win32/i386-sunos-ld.exe -text

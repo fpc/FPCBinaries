@@ -43,7 +43,10 @@ i386-win32/i386-linux-as.exe -text
 i386-win32/i386-linux-ld.exe -text
 i386-win32/i386-linux-objdump.exe -text
 i386-win32/i386-openbsd-ar.exe -text
+i386-win32/i386-openbsd-as.exe -text
 i386-win32/i386-openbsd-ld.exe -text
+i386-win32/i386-openbsd-objcopy.exe -text
+i386-win32/i386-openbsd-objdump.exe -text
 i386-win32/i386-openbsd-strip.exe -text
 i386-win32/i386-sunos-ar.exe -text
 i386-win32/i386-sunos-as.exe -text

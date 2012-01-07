@@ -115,7 +115,9 @@ i386-win32/sparc-solaris-strip.exe -text
 i386-win32/x86_64-freebsd-ar.exe -text
 i386-win32/x86_64-freebsd-as.exe -text
 i386-win32/x86_64-freebsd-ld.exe -text
+i386-win32/x86_64-freebsd-objcopy.exe -text
 i386-win32/x86_64-freebsd-objdump.exe -text
+i386-win32/x86_64-freebsd-strip.exe -text
 i386-win32/x86_64-linux-ar.exe -text
 i386-win32/x86_64-linux-as.exe -text
 i386-win32/x86_64-linux-ld.exe -text

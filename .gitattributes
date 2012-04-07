@@ -26,9 +26,13 @@ i386-win32/arm-nds-ld.exe -text
 i386-win32/arm-nds-objdump.exe -text
 i386-win32/arm-wince-ar.exe -text
 i386-win32/arm-wince-as.exe -text
+i386-win32/arm-wince-dlltool.exe -text
 i386-win32/arm-wince-ld.exe -text
+i386-win32/arm-wince-nm.exe -text
+i386-win32/arm-wince-objcopy.exe -text
 i386-win32/arm-wince-objdump.exe -text
 i386-win32/arm-wince-strip.exe -text
+i386-win32/arm-wince-windres.exe -text
 i386-win32/avr-embedded-ar.exe -text
 i386-win32/avr-embedded-as.exe -text
 i386-win32/avr-embedded-ld.exe -text

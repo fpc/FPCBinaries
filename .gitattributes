@@ -52,7 +52,10 @@ i386-win32/i386-haiku-objdump.exe -text
 i386-win32/i386-linux-ar.exe -text
 i386-win32/i386-linux-as.exe -text
 i386-win32/i386-linux-ld.exe -text
+i386-win32/i386-linux-nm.exe -text
+i386-win32/i386-linux-objcopy.exe -text
 i386-win32/i386-linux-objdump.exe -text
+i386-win32/i386-linux-strip.exe -text
 i386-win32/i386-openbsd-ar.exe -text
 i386-win32/i386-openbsd-as.exe -text
 i386-win32/i386-openbsd-ld.exe -text

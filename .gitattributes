@@ -83,12 +83,14 @@ i386-win32/m68k-linux-strip.exe -text
 i386-win32/mips-linux-ar.exe -text
 i386-win32/mips-linux-as.exe -text
 i386-win32/mips-linux-ld.exe -text
+i386-win32/mips-linux-nm.exe -text
 i386-win32/mips-linux-objcopy.exe -text
 i386-win32/mips-linux-objdump.exe -text
 i386-win32/mips-linux-strip.exe -text
 i386-win32/mipsel-linux-ar.exe -text
 i386-win32/mipsel-linux-as.exe -text
 i386-win32/mipsel-linux-ld.exe -text
+i386-win32/mipsel-linux-nm.exe -text
 i386-win32/mipsel-linux-objcopy.exe -text
 i386-win32/mipsel-linux-objdump.exe -text
 i386-win32/mipsel-linux-strip.exe -text

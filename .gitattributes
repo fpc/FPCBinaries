@@ -97,7 +97,10 @@ i386-win32/powerpc-linux-strip.exe -text
 i386-win32/powerpc-netbsd-ar.exe -text
 i386-win32/powerpc-netbsd-as.exe -text
 i386-win32/powerpc-netbsd-ld.exe -text
+i386-win32/powerpc-netbsd-nm.exe -text
+i386-win32/powerpc-netbsd-objcopy.exe -text
 i386-win32/powerpc-netbsd-objdump.exe -text
+i386-win32/powerpc-netbsd-strip.exe -text
 i386-win32/powerpc64-linux-ar.exe -text
 i386-win32/powerpc64-linux-as.exe -text
 i386-win32/powerpc64-linux-ld.exe -text

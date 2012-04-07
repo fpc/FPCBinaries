@@ -129,7 +129,10 @@ i386-win32/x86_64-freebsd-strip.exe -text
 i386-win32/x86_64-linux-ar.exe -text
 i386-win32/x86_64-linux-as.exe -text
 i386-win32/x86_64-linux-ld.exe -text
+i386-win32/x86_64-linux-nm.exe -text
+i386-win32/x86_64-linux-objcopy.exe -text
 i386-win32/x86_64-linux-objdump.exe -text
+i386-win32/x86_64-linux-strip.exe -text
 i386-win32/x86_64-sunos-ar.exe -text
 i386-win32/x86_64-sunos-as.exe -text
 i386-win32/x86_64-sunos-ld.exe -text

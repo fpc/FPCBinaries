@@ -141,6 +141,7 @@ i386-win32/x86_64-linux-strip.exe -text
 i386-win32/x86_64-solaris-ar.exe -text
 i386-win32/x86_64-solaris-as.exe -text
 i386-win32/x86_64-solaris-gas.exe -text
+i386-win32/x86_64-solaris-gld.exe -text
 i386-win32/x86_64-solaris-ld.exe -text
 i386-win32/x86_64-solaris-objcopy.exe -text
 i386-win32/x86_64-solaris-objdump.exe -text

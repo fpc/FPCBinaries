@@ -9,11 +9,13 @@ i386-win32/arm-embedded-strip.exe -text
 i386-win32/arm-linux-ar.exe -text
 i386-win32/arm-linux-as.exe -text
 i386-win32/arm-linux-ld.exe -text
+i386-win32/arm-linux-nm.exe -text
 i386-win32/arm-linux-oabi-ar.exe -text
 i386-win32/arm-linux-oabi-as.exe -text
 i386-win32/arm-linux-oabi-ld.exe -text
 i386-win32/arm-linux-oabi-objdump.exe -text
 i386-win32/arm-linux-oabi-strip.exe -text
+i386-win32/arm-linux-objcopy.exe -text
 i386-win32/arm-linux-objdump.exe -text
 i386-win32/arm-linux-strip.exe -text
 i386-win32/arm-wince-ar.exe -text

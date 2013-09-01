@@ -39,6 +39,13 @@ i386-win32/i386-freebsd-ld.exe -text
 i386-win32/i386-freebsd-objcopy.exe -text
 i386-win32/i386-freebsd-objdump.exe -text
 i386-win32/i386-freebsd-strip.exe -text
+i386-win32/i386-go32v2-ar.exe -text
+i386-win32/i386-go32v2-as.exe -text
+i386-win32/i386-go32v2-ld.exe -text
+i386-win32/i386-go32v2-nm.exe -text
+i386-win32/i386-go32v2-objcopy.exe -text
+i386-win32/i386-go32v2-objdump.exe -text
+i386-win32/i386-go32v2-strip.exe -text
 i386-win32/i386-haiku-ar.exe -text
 i386-win32/i386-haiku-as.exe -text
 i386-win32/i386-haiku-ld.exe -text

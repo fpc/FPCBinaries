@@ -1,5 +1,12 @@
 * text=auto !eol
 i386-win32/README.txt svneol=native#text/plain
+i386-win32/aarch64-linux-ar.exe -text
+i386-win32/aarch64-linux-as.exe -text
+i386-win32/aarch64-linux-ld.exe -text
+i386-win32/aarch64-linux-nm.exe -text
+i386-win32/aarch64-linux-objcopy.exe -text
+i386-win32/aarch64-linux-objdump.exe -text
+i386-win32/aarch64-linux-strip.exe -text
 i386-win32/arm-embedded-ar.exe -text
 i386-win32/arm-embedded-as.exe -text
 i386-win32/arm-embedded-ld.exe -text

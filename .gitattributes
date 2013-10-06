@@ -77,6 +77,13 @@ i386-win32/i386-symbian-ar.exe -text
 i386-win32/i386-symbian-as.exe -text
 i386-win32/i386-symbian-ld.exe -text
 i386-win32/i386-symbian-postw32.exe -text
+i386-win32/m68k-atari-ar.exe -text
+i386-win32/m68k-atari-as.exe -text
+i386-win32/m68k-atari-ld.exe -text
+i386-win32/m68k-atari-nm.exe -text
+i386-win32/m68k-atari-objcopy.exe -text
+i386-win32/m68k-atari-objdump.exe -text
+i386-win32/m68k-atari-strip.exe -text
 i386-win32/m68k-linux-ar.exe -text
 i386-win32/m68k-linux-as.exe -text
 i386-win32/m68k-linux-ld.exe -text

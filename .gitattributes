@@ -105,6 +105,13 @@ i386-win32/mipsel-linux-nm.exe -text
 i386-win32/mipsel-linux-objcopy.exe -text
 i386-win32/mipsel-linux-objdump.exe -text
 i386-win32/mipsel-linux-strip.exe -text
+i386-win32/powerpc-aix-ar.exe -text
+i386-win32/powerpc-aix-as.exe -text
+i386-win32/powerpc-aix-ld.exe -text
+i386-win32/powerpc-aix-nm.exe -text
+i386-win32/powerpc-aix-objcopy.exe -text
+i386-win32/powerpc-aix-objdump.exe -text
+i386-win32/powerpc-aix-strip.exe -text
 i386-win32/powerpc-linux-ar.exe -text
 i386-win32/powerpc-linux-as.exe -text
 i386-win32/powerpc-linux-ld.exe -text

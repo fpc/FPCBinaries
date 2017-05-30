@@ -143,6 +143,13 @@ i386-win32/sparc-solaris-ld.exe -text
 i386-win32/sparc-solaris-objcopy.exe -text
 i386-win32/sparc-solaris-objdump.exe -text
 i386-win32/sparc-solaris-strip.exe -text
+i386-win32/sparc64-linux-ar.exe -text
+i386-win32/sparc64-linux-as.exe -text
+i386-win32/sparc64-linux-ld.exe -text
+i386-win32/sparc64-linux-nm.exe -text
+i386-win32/sparc64-linux-objcopy.exe -text
+i386-win32/sparc64-linux-objdump.exe -text
+i386-win32/sparc64-linux-strip.exe -text
 i386-win32/x86_64-freebsd-ar.exe -text
 i386-win32/x86_64-freebsd-as.exe -text
 i386-win32/x86_64-freebsd-ld.exe -text

@@ -115,6 +115,8 @@ i386-win32/powerpc-aix-strip.exe -text
 i386-win32/powerpc-linux-ar.exe -text
 i386-win32/powerpc-linux-as.exe -text
 i386-win32/powerpc-linux-ld.exe -text
+i386-win32/powerpc-linux-nm.exe -text
+i386-win32/powerpc-linux-objcopy.exe -text
 i386-win32/powerpc-linux-objdump.exe -text
 i386-win32/powerpc-linux-strip.exe -text
 i386-win32/powerpc-netbsd-ar.exe -text

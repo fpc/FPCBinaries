@@ -133,6 +133,8 @@ i386-win32/powerpc64-linux-strip.exe -text
 i386-win32/sparc-linux-ar.exe -text
 i386-win32/sparc-linux-as.exe -text
 i386-win32/sparc-linux-ld.exe -text
+i386-win32/sparc-linux-nm.exe -text
+i386-win32/sparc-linux-objcopy.exe -text
 i386-win32/sparc-linux-objdump.exe -text
 i386-win32/sparc-linux-strip.exe -text
 i386-win32/sparc-solaris-ar.exe -text
